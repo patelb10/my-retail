@@ -1,6 +1,4 @@
-#my-retail REST API
-
-my-retial REST API service provides the client application ability to:
+### my-retial REST API service provides the client application ability to:
 
     1. Retrieve Product and Price information by Product Id
 
