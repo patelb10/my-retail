@@ -1,0 +1,44 @@
+[
+    {
+        "id": 13860428,
+        "current_price": {
+            "currency_code": "USD",
+            "value": 13.49
+        }
+    },
+    {
+        "id": 15117729,
+        "current_price": {
+            "currency_code": "USD",
+            "value": 10.50
+        }
+    },
+    {
+        "id": 16483589,
+        "current_price": {
+            "currency_code": "USD",
+            "value": 33.00
+        }
+    },
+    {
+        "id": 16696652,
+        "current_price": {
+            "currency_code": "USD",
+            "value": 27.00
+        }
+    },
+    {
+        "id": 16752456,
+        "current_price": {
+            "currency_code": "USD",
+            "value": 32.00
+        }
+    },
+    {
+        "id": 15643793,
+        "current_price": {
+            "currency_code": "USD",
+            "value": 36.00
+        }
+    }
+    ]
