@@ -32,6 +32,3 @@ def update_product(id):
     resp = jsonify(save_product)
     resp.status_code = 201
     return resp
-
-
-
