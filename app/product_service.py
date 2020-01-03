@@ -23,7 +23,6 @@ class ProductService(object):
             if result.status_code == 200:
                 try:
                     item_title = external_data["product"]["item"]["product_description"]["title"]
-                    logger.info("test title {}".format(item_title))
                     product["name"] = item_title
                 except KeyError:
                     item_title = None
