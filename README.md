@@ -47,7 +47,7 @@ client application can do a PUT request with input similar to the response recei
 to modify the price in the datastore. The request is done at the same path "/products/{id}"
 
 Sample Input: 
-{"id":13860428,"name":"The Big Lebowski (Blu-ray) (Widescreen)","current_price":{"value": 15.67,"currency_code":"USD"}}
+{"id":13860428,"current_price":{"value": 15.67,"currency_code":"USD"}}
 
 When the API receives PUT request, it does some validations to see if the product is in datastore with valid id or not. If it is, the price for the product is modified 
 in the data store.
